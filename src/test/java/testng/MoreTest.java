@@ -7,6 +7,7 @@ public class MoreTest {
 	public void a(String name) {
 		System.out.println("name");
 		System.out.println("mama");
+			System.out.println("nana");
 
 }
 	@Test
