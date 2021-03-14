@@ -6,7 +6,7 @@ public class MoreTest {
 	@Test
 	public void a(String name) {
 		System.out.println("name");
-
+		System.out.println("mama");
 
 }
 	@Test
